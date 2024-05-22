@@ -1,0 +1,47 @@
+[
+	{
+		"project": "MuscleFit.com",
+		"url": "https://github.com/aman-109/dainty-market-1579-MuscleFit",
+		"repo": "Public",
+		"descriptionTitle": "A MuscleFit is fitness application, ",
+		"description": "that provides customer based customized workout plans and provide access to track them.It is social workout tracking platform that keeps gym goers stay motivated by tracking and analyzing their fitness goals.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack", 	"h": "300", "w": "300", "url": "/MuscleFit.png" }
+
+		],
+		"stack": [
+			{ "key": "python", "name": "Python", "type": "devicon" }
+
+		]
+
+	},
+	{
+		"project": "muhammadfiaz.com",
+		"url": "https://github.com/muhammad-fiaz/portfolio",
+		"repo": "Public",
+		"descriptionTitle": "An open-source portfolio website",
+		"description": "built on Next.js and React. A fast and responsive single page application.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "550", "w": "330",  "url": "/img/img-mock.png" }
+		],
+		"stack": [
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "typescript", 	"name": "Typescript", 	"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
+			{"key": "python", "name": "Python", "type": "devicon"},
+			{"key": "django", "name": "Django", "type": "devicon"}
+
+		]
+	}
+]

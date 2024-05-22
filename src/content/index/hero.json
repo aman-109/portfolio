@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const myName = () =>",
+		"end": "Hey there!, my name is",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Aman Mate,",
+		"usp": "Passionate Full Stack Developer."
+	},
+
+	"paragraph": "As an experienced full stack web developer, I leverage my deep passion for programming to create innovative and impactful solutions. Constantly evolving with new technologies, I am committed to delivering high-quality applications that shape the future of web development. ",
+
+	"buttons": {
+		"primary": {
+			"title": "Hire Me",
+			"url": "mailto:s.aman.mate.52@gmail.com",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/amanmate109/",
+			"leaveSite": "true"
+		}
+	}
+}
